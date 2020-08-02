@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"edu.etu.web","c":"Shop","l":"Shop()"}]

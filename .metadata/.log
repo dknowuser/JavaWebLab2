@@ -1,0 +1,352 @@
+!SESSION 2019-02-16 00:40:43.111 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 2 0 2019-02-16 00:41:48.950
+!MESSAGE Warnings while parsing the images from the 'org.eclipse.ui.commandImages' extension point.
+!SUBENTRY 1 org.eclipse.ui 2 0 2019-02-16 00:41:48.950
+!MESSAGE Cannot bind to an undefined command: plug-in='com.genuitec.eclipse.theming.ui', id='com.genuitec.myeclipse.help.darktheme.commandid'
+
+!ENTRY com.genuitec.eclipse.theming.ui 1 0 2019-02-16 00:41:49.992
+!MESSAGE A DevStyle Theme is being activated on this workspace; preparing colors and configuration
+
+!ENTRY com.genuitec.eclipse.theming.ui 1 0 2019-02-16 00:41:50.002
+!MESSAGE DevStyle has archived current color configurations to alternate preferences - will be restored when switching out of the DevStyle Theme
+
+!ENTRY org.eclipse.jface.text 2 0 2019-02-16 00:41:52.737
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-02-16 00:42:00.136
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\maro4_000'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-02-16 19:05:48.724 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface.text 2 0 2019-02-16 19:06:08.550
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-02-16 19:06:14.479
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\maro4_000'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-02-16 21:15:34.520 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface.text 2 0 2019-02-16 21:15:50.555
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-02-16 21:15:55.400
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\maro4_000'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2019-02-16 21:20:57.286
+!MESSAGE already installed: org.eclipse.jst.server.generic.jonas4
+!SESSION 2019-02-18 18:40:00.292 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -data E:/Labs/Java/Lab2 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface.text 2 0 2019-02-18 18:40:08.570
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-02-18 18:40:13.041
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\maro4_000'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-02-18 18:49:54.098 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -data E:/Labs/Java/Lab2 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface.text 2 0 2019-02-18 18:50:01.750
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-02-18 18:50:06.270
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\maro4_000'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-02-18 22:55:27.588 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface.text 2 0 2019-02-18 22:56:05.791
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-02-18 22:56:10.716
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\maro4_000'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.jface.text 2 0 2019-02-19 00:35:52.919
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+!SESSION 2019-02-20 16:26:48.472 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -data E:\Labs\Java\Lab2 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface.text 2 0 2019-02-20 16:26:57.115
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-02-20 16:27:03.818
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\maro4_000'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-02-20 16:29:57.412 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface.text 2 0 2019-02-20 16:30:07.953
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-02-20 16:30:13.094
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\maro4_000'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-02-25 17:42:39.772 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface.text 2 0 2019-02-25 17:43:53.838
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-25 17:43:57.612
+!MESSAGE GWT: GWT Facet startup
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-02-25 17:44:02.244
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\maro4_000'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite 1 0 2019-02-25 17:44:07.433
+!MESSAGE Registering: com.gwtplugins.gwt.eclipse.sdkbundle.gwt27_2.7.0.201710131939
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite 1 0 2019-02-25 17:44:07.735
+!MESSAGE Registering: com.gwtplugins.gwt.eclipse.sdkbundle.gwt28_2.8.0.201710131939
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2019-02-25 17:44:40.197
+!MESSAGE Several ports (8005, 8080, 8009) required by Tomcat v9.0 Server at localhost are already in use. The server may already be running in another process, or a system process may be using the port. To start this server you will need to stop the other process or change the port number(s).
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-25 17:45:10.559
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-25 17:47:17.651
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-25 17:47:17.651
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-25 17:47:17.652
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-25 17:47:17.653
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-25 17:47:17.653
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-25 17:47:17.653
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-25 17:47:17.654
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-25 17:47:17.654
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-25 17:47:17.654
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-25 17:47:17.655
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-25 17:47:18.030
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-25 17:47:18.031
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-25 17:47:18.131
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-25 17:47:18.132
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+!SESSION 2019-02-25 18:04:42.820 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -data E:\Labs\Java\Lab2 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface.text 2 0 2019-02-25 18:04:51.149
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-25 18:04:54.254
+!MESSAGE GWT: GWT Facet startup
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-02-25 18:04:55.577
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\maro4_000'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1002 2019-02-25 18:50:35.397
+!MESSAGE Unable to read repository at https://developers.google.com/eclipse/docs/download?hl=ru-RU.
+!STACK 0
+java.io.IOException: https://developers.google.com/eclipse/docs/download?hl=ru-RU is not a valid repository location.
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.load(SimpleMetadataRepositoryFactory.java:103)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:770)
+	at sun.reflect.GeneratedMethodAccessor53.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:409)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:201)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:476)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:152)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:130)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:78)
+!SESSION 2019-02-25 18:54:44.261 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -data E:\Labs\Java\Lab2 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface.text 2 0 2019-02-25 18:54:52.303
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-25 18:54:54.727
+!MESSAGE GWT: GWT Facet startup
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-02-25 18:54:57.337
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\maro4_000'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1002 2019-02-25 18:55:29.176
+!MESSAGE Unable to read repository at https://developers.google.com/eclipse/docs/download?hl=ru-RU.
+!STACK 0
+java.io.IOException: https://developers.google.com/eclipse/docs/download?hl=ru-RU is not a valid repository location.
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.load(SimpleMetadataRepositoryFactory.java:103)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:770)
+	at sun.reflect.GeneratedMethodAccessor47.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:409)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:201)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:476)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:152)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:130)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:78)
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-25 19:02:02.995
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-25 19:03:30.091
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-25 19:03:30.092
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-25 19:03:30.093
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-25 19:03:30.093
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-25 19:03:30.093
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-25 19:03:30.093
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-25 19:03:30.094
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-25 19:03:30.094
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-25 19:03:30.095
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-25 19:03:30.095
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-25 19:03:30.469
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-25 19:03:30.469
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-25 19:03:30.569
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-25 19:03:30.569
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
